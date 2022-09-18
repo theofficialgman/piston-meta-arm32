@@ -6,10 +6,19 @@ See the wiki for more info: https://minecraft.fandom.com/wiki/Version_manifest.j
 
 This repo takes advantage of this by parsing and rewriting the official meta repo for unofficial arm32 linux support.
 
+If you are looking for ARM64 linux, I have a separate repo for that here -> https://github.com/theofficialgman/piston-meta-arm64
+
 ## How to use this
 
 Minecraft launchers can be modified to use this meta repo instead of mojangs meta repo. For open source launchers, sometimes this is as simple as changing a string from `https://launchermeta.mojang.com/mc/game/version_manifest.json` to this manifest `https://raw.githubusercontent.com/theofficialgman/piston-meta-arm32/main/mc/game/version_manifest.json` and building the launcher.
 (or for the v2 version `https://launchermeta.mojang.com/mc/game/version_manifest_v2.json` to `https://raw.githubusercontent.com/theofficialgman/piston-meta-arm32/main/mc/game/version_manifest_v2.json`)
+
+GDLauncher required minimal changes for a functional build: https://github.com/gorilla-devs/GDLauncher/pull/1451<br>
+Builds for ARM32 Linux here: <br>
+https://github.com/Pi-Apps-Coders/files/releases/download/large-files/GDLauncher-linux-arm32-1.1.29-setup.AppImage<br>
+https://github.com/Pi-Apps-Coders/files/releases/download/large-files/GDLauncher-linux-arm32-1.1.29-setup.deb<br>
+https://github.com/Pi-Apps-Coders/files/releases/download/large-files/GDLauncher-linux-arm32-1.1.29-setup.rpm<br>
+https://github.com/Pi-Apps-Coders/files/releases/download/large-files/GDLauncher-linux-arm32-1.1.29-setup.zip<br>
 
 ## This repo uses my (theofficialgman) already existing arm32 lwjgl/jinput ports:
 - LWJGL 2.9.4-nightly-20150209 (for minecraft 1.12 and older)<br>
