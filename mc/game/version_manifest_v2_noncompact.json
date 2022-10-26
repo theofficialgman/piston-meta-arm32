@@ -1,16 +1,25 @@
 {
   "latest": {
     "release": "1.19.2",
-    "snapshot": "22w42a"
+    "snapshot": "22w43a"
   },
   "versions": [
+    {
+      "id": "22w43a",
+      "type": "snapshot",
+      "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/22w43a.json",
+      "time": "2022-10-26T12:01:21+00:00",
+      "releaseTime": "2022-10-26T11:55:59+00:00",
+      "sha1": "d1b24a286c840e80c1514ce4dd1b0ab0ff01372e",
+      "complianceLevel": 1
+    },
     {
       "id": "22w42a",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/22w42a.json",
-      "time": "2022-10-19T13:16:00+00:00",
+      "time": "2022-10-26T11:45:12+00:00",
       "releaseTime": "2022-10-19T09:34:22+00:00",
-      "sha1": "b38319c5f3d47e54b727f141a710843e5c17311f",
+      "sha1": "9993b87254313ee839d76332a453e321ec369b93",
       "complianceLevel": 1
     },
     {
@@ -5198,21 +5207,21 @@
       "complianceLevel": 0
     },
     {
-      "id": "1.4.6",
-      "type": "release",
-      "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.4.6.json",
-      "time": "2022-03-10T09:51:38+00:00",
-      "releaseTime": "2012-12-19T22:00:00+00:00",
-      "sha1": "b0012e3004bf305fdcb6e1b5ddd04409855b985e",
-      "complianceLevel": 0
-    },
-    {
       "id": "1.4.5",
       "type": "release",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.4.5.json",
       "time": "2022-03-10T09:51:38+00:00",
       "releaseTime": "2012-12-19T22:00:00+00:00",
       "sha1": "865b556dfae1a462477cbc39f18d5a8f10aff6e8",
+      "complianceLevel": 0
+    },
+    {
+      "id": "1.4.6",
+      "type": "release",
+      "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.4.6.json",
+      "time": "2022-03-10T09:51:38+00:00",
+      "releaseTime": "2012-12-19T22:00:00+00:00",
+      "sha1": "b0012e3004bf305fdcb6e1b5ddd04409855b985e",
       "complianceLevel": 0
     },
     {
