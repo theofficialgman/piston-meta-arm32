@@ -1,178 +1,187 @@
 {
   "latest": {
     "release": "1.19.3",
-    "snapshot": "1.19.4-pre2"
+    "snapshot": "1.19.4-pre3"
   },
   "versions": [
+    {
+      "id": "1.19.4-pre3",
+      "type": "snapshot",
+      "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.19.4-pre3.json",
+      "time": "2023-03-01T14:21:31+00:00",
+      "releaseTime": "2023-03-01T14:11:05+00:00",
+      "sha1": "4ffecfe8274b432298a889b3cce2607983a4d152",
+      "complianceLevel": 1
+    },
     {
       "id": "1.19.4-pre2",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.19.4-pre2.json",
-      "time": "2023-02-27T13:48:53+00:00",
+      "time": "2023-03-01T12:40:49+00:00",
       "releaseTime": "2023-02-27T13:38:53+00:00",
-      "sha1": "78ca7f6d1401ca46262786aeba6e6fbb29d4c90e",
+      "sha1": "036bf700475aed06c5897b3ad13c211b46838c49",
       "complianceLevel": 1
     },
     {
       "id": "1.19.4-pre1",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.19.4-pre1.json",
-      "time": "2023-02-27T11:58:44+00:00",
+      "time": "2023-03-01T12:40:49+00:00",
       "releaseTime": "2023-02-22T16:00:34+00:00",
-      "sha1": "fe77512114a0a0ea4449d862cc7503ea391eb2b3",
+      "sha1": "5c8e863e4a7836f56d2f8285e771eef3b0ee74e5",
       "complianceLevel": 1
     },
     {
       "id": "23w07a",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/23w07a.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2023-02-15T14:32:29+00:00",
-      "sha1": "8302003e59bba05fc9c0cea93f07c8d7236fbe9b",
+      "sha1": "7912ea6e900898d2e414bf122e25ab3bbb870bac",
       "complianceLevel": 1
     },
     {
       "id": "23w06a",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/23w06a.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2023-02-08T15:00:04+00:00",
-      "sha1": "b3cdb0ae0909d95b90444eba6f095c1fc97a40d5",
+      "sha1": "3ebab4e4f85618d710010f45b034d9da588ccecb",
       "complianceLevel": 1
     },
     {
       "id": "23w05a",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/23w05a.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2023-02-01T14:20:33+00:00",
-      "sha1": "b5f100e910070c0fb5b7c4daba119b260f967a37",
+      "sha1": "b7a509874d8b90585433ee26675ef28c4923857d",
       "complianceLevel": 1
     },
     {
       "id": "23w04a",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/23w04a.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2023-01-24T15:19:06+00:00",
-      "sha1": "adf5cd5d2e598708ebf8911ecc1412cc26bf15a2",
+      "sha1": "e58f62b9764c402fe51ab825db99943ed122a577",
       "complianceLevel": 1
     },
     {
       "id": "23w03a",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/23w03a.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2023-01-18T13:10:31+00:00",
-      "sha1": "210d3a4f313c4f922b0ee1806b7bae2f086d064b",
+      "sha1": "f80c4b556ba49a43cd9df90837483c569915c2a0",
       "complianceLevel": 1
     },
     {
       "id": "1.19.3",
       "type": "release",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.19.3.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2022-12-07T08:17:18+00:00",
-      "sha1": "bcafbfe0afd85ab9c0ea30cdddf728ce6526b9ec",
+      "sha1": "d20ea9fa2bc4073d4372d347c884eb8d5ffc12a7",
       "complianceLevel": 1
     },
     {
       "id": "1.19.3-rc3",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.19.3-rc3.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2022-12-06T10:24:01+00:00",
-      "sha1": "36e3086d6cac16994f7dd5346d5f0605c90816eb",
+      "sha1": "ee8209b3fb54321f8244f2e0dcb09fd75fb2b580",
       "complianceLevel": 1
     },
     {
       "id": "1.19.3-rc2",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.19.3-rc2.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2022-12-05T13:21:34+00:00",
-      "sha1": "4e1fafce1f93f8703e467f50fc54494b6b77f183",
+      "sha1": "ca25732cf94419f14bc48b748a136c24f2b170c5",
       "complianceLevel": 1
     },
     {
       "id": "1.19.3-rc1",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.19.3-rc1.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2022-12-01T13:45:18+00:00",
-      "sha1": "c0080c3a4a384009a92eac0da0d2d3f4108e8d30",
+      "sha1": "20e8cb5ae24a0819f694ba729315a0488de2340c",
       "complianceLevel": 1
     },
     {
       "id": "1.19.3-pre3",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.19.3-pre3.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2022-11-29T14:28:08+00:00",
-      "sha1": "3ea8b2472648a6700cdbb083b932d0fdccfbe2e5",
+      "sha1": "53be1aec3a0c50f7dc6f86942bc80234d31ca154",
       "complianceLevel": 1
     },
     {
       "id": "1.19.3-pre2",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.19.3-pre2.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2022-11-23T16:12:25+00:00",
-      "sha1": "cf42adb367f076ce53fdd207dca7cdb7c8421e3a",
+      "sha1": "ea8ffe5c7477a6181bfd90d39938c29ef99afeca",
       "complianceLevel": 1
     },
     {
       "id": "1.19.3-pre1",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.19.3-pre1.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2022-11-22T13:59:37+00:00",
-      "sha1": "dde9b2d7ba9bce8529cd26022eb1efdbd3610765",
+      "sha1": "4d72650848753513e1152272c5d9e18c958d48d3",
       "complianceLevel": 1
     },
     {
       "id": "22w46a",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/22w46a.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2022-11-16T13:32:50+00:00",
-      "sha1": "7dd9bb205c5828db9d2eccf30c717fe06e961793",
+      "sha1": "2521b762f9913621471bad2f11c24dac71757dc7",
       "complianceLevel": 1
     },
     {
       "id": "22w45a",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/22w45a.json",
-      "time": "2023-02-27T11:40:39+00:00",
+      "time": "2023-03-01T12:26:26+00:00",
       "releaseTime": "2022-11-09T14:30:16+00:00",
-      "sha1": "638f5dda2dfa19bce172d87867dd60a91fd304e2",
+      "sha1": "18a9612c450a656c643e32c19023ad9c7a43f6d4",
       "complianceLevel": 1
     },
     {
       "id": "22w44a",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/22w44a.json",
-      "time": "2023-02-27T11:26:49+00:00",
+      "time": "2023-03-01T12:10:13+00:00",
       "releaseTime": "2022-11-02T13:15:43+00:00",
-      "sha1": "aba75db22011a07c0ec0b4915e5041629fc073c9",
+      "sha1": "ce810168b2526cd60f4d4abd9ec18bcdd7b590a2",
       "complianceLevel": 1
     },
     {
       "id": "22w43a",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/22w43a.json",
-      "time": "2023-02-27T11:26:49+00:00",
+      "time": "2023-03-01T12:10:13+00:00",
       "releaseTime": "2022-10-26T11:55:59+00:00",
-      "sha1": "a6d98ba25fab458a8570bd750d8a0be331d64e12",
+      "sha1": "b3b8ca365cfb3cd9c2c613b9130eda88bb7b3993",
       "complianceLevel": 1
     },
     {
       "id": "22w42a",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/22w42a.json",
-      "time": "2023-02-27T11:26:49+00:00",
+      "time": "2023-03-01T12:10:13+00:00",
       "releaseTime": "2022-10-19T09:34:22+00:00",
-      "sha1": "76578d7556d190c6ba9602d0e28956eb2be1a7ee",
+      "sha1": "7c76364f1cb657d402b4892a3d16507f16e1c660",
       "complianceLevel": 1
     },
     {
