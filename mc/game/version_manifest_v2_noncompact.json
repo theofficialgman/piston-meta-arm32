@@ -1,9 +1,18 @@
 {
   "latest": {
     "release": "26.1.2",
-    "snapshot": "26.1.2"
+    "snapshot": "26.2-snapshot-2"
   },
   "versions": [
+    {
+      "id": "26.2-snapshot-2",
+      "type": "snapshot",
+      "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/26.2-snapshot-2.json",
+      "time": "2026-04-09T12:36:20+00:00",
+      "releaseTime": "2026-04-09T12:26:35+00:00",
+      "sha1": "76c7491fd48132ad642d57618107c99eb9247b8d",
+      "complianceLevel": 1
+    },
     {
       "id": "26.1.2",
       "type": "release",
@@ -26,9 +35,9 @@
       "id": "26.2-snapshot-1",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/26.2-snapshot-1.json",
-      "time": "2026-04-08T12:19:15+00:00",
+      "time": "2026-04-09T12:19:55+00:00",
       "releaseTime": "2026-04-07T11:52:43+00:00",
-      "sha1": "13f1de210b5e9042590b7107bed4ead883100a77",
+      "sha1": "72cb33bab59528704287af50416cefdff7625882",
       "complianceLevel": 1
     },
     {
@@ -6971,21 +6980,21 @@
       "complianceLevel": 0
     },
     {
-      "id": "1.6.3",
-      "type": "snapshot",
-      "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.6.3.json",
-      "time": "2019-06-28T07:07:47+00:00",
-      "releaseTime": "2013-09-13T10:54:41+00:00",
-      "sha1": "f59ce58201794c408a8b9eaf384b70452f66e1f5",
-      "complianceLevel": 0
-    },
-    {
       "id": "13w37b",
       "type": "snapshot",
       "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/13w37b.json",
       "time": "2019-06-28T07:08:08+00:00",
       "releaseTime": "2013-09-13T10:54:41+00:00",
       "sha1": "54a24316f29910cae88f7e3ba47386246d1dc17b",
+      "complianceLevel": 0
+    },
+    {
+      "id": "1.6.3",
+      "type": "snapshot",
+      "url": "https://github.com/theofficialgman/piston-meta-arm32/raw/main/version-json/1.6.3.json",
+      "time": "2019-06-28T07:07:47+00:00",
+      "releaseTime": "2013-09-13T10:54:41+00:00",
+      "sha1": "f59ce58201794c408a8b9eaf384b70452f66e1f5",
       "complianceLevel": 0
     },
     {
